@@ -1,0 +1,24 @@
+comandos gits
+
+
+-git init: inicializar o Git
+cria um repositório dentro de uma pasta
+-git add:
+
+-git commit: envia os arquivos para o repositorio local.
+
+-git status: lista o status dos arquivos.
+
+
+- mv "nome arquivo" ./"pasta"/  move arquivo de pastas.
+
+- ls -a: mostra arquivos ocultos.
+
+- git config --global --unset user.email ou user.name ( alterar credenciais)
+
+
+status dos arquivos na estrutura do Git:
+untraked: desconhecido
+unmodified: não modificado
+modifiied: modificado
+staged: arguardando ser commitado.
